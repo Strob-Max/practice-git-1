@@ -1,2 +1,2 @@
 feature
-Line 1
+Line 1Line 2
